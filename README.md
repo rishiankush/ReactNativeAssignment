@@ -16,7 +16,6 @@
 - [redux](https://redux.js.org/) for state management.
 - [redux-persist](https://github.com/rt2zz/redux-persist) as persistance layer.
 - [redux-thunk](https://github.com/gaearon/redux-thunk) to dispatch asynchronous actions.
-- [jest](https://facebook.github.io/jest/) and [react-native-testing-library](https://callstack.github.io/react-native-testing-library/) for testing.
 
 ## Installation
 
